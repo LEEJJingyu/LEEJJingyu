@@ -1,6 +1,6 @@
 
 
-## Hi there 👋
+## 안녕하세요 👋
 ---
 지속적으로 성장 중인 개발자 이진규입니다.\
 모든 문제를 🧠**기존의 사고**에서 벗어나 🔍**새로운 시각**에서 바라보려고 **노력**✊합니다.
@@ -9,7 +9,7 @@
 <td align="center" colspan="2">
 
 
-## 💳 : Cards 
+## 💳 : 카드 
 ---
 </td>
 </tr>
@@ -27,17 +27,17 @@
 </tr>
 </td>
 
-## 📚: Education
+## 📚: 학력
 ---
 - 중앙대학교 게임제작동아리 CIEN - 프로그래머 - (2018.03. ~ 2020.02.)
 - 중앙대학교 전자전기공학부 - (2018.03. ~ 2024.08.)
 - SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~
 
-## 🔍: Project
+## 🔍: 프로젝트
 ---
 - OneTheLand Festival - 캐릭터 디자인 구현 - (2018.08. ~ 2018.12.)
 
-## 🛠 : Skill
+## 🛠 : 기술
 ---
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

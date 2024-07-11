@@ -21,7 +21,7 @@
 </td>
 <td align="center" valign="top" width="42%">
   
-[![Cardroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJJingyu&count_private=true&show_icons=true&theme=radical)](https://github.com/LEEJJingyu)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEJJingyu&count_private=true&show_icons=true&theme=radical)](https://github.com/LEEJJingyu)
 
 </td>
 </tr>
